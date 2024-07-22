@@ -7,7 +7,6 @@ prom/node-exporter:v1.8.1
 prom/prometheus:v2.53.0
 prom/alertmanager:v0.27.0
 gcr.io/cadvisor/cadvisor-arm64:v0.49.1
-rockylinux:9
 nginx:latest
 grafana/grafana：10.0.9
 prom/node-exporter:latest
