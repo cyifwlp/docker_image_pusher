@@ -3,9 +3,9 @@ prom/prometheus-linux-arm64:v2.53.0
 prom/alertmanager-linux-arm64:v0.27.0
 gcr.io/cadvisor/cadvisor-arm64:v0.49.1
 rockylinux:9
-prom/node-exporter：v1.81
-prom/prometheus：2.53.0
-prom/alermanager：0.27.0 
+prom/node-exporter:v1.81
+prom/prometheus:2.53.0
+prom/alermanager:0.27.0 
 gcr.io/cadvisor/cadvisor-arm64:v0.49.1
 rockylinux:9
 nginx:latest
